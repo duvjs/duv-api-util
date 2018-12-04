@@ -1,0 +1,22 @@
+{
+  "name": "duv-api-util",
+  "version": "0.0.1",
+  "description": "convert duv api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duvjs/duv-api-util.git"
+  },
+  "keywords": [
+    "duv-api-util"
+  ],
+  "author": "Andy Xu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duvjs/duv-api-util/issues"
+  },
+  "homepage": "https://github.com/duvjs/duv-api-util#readme"
+}

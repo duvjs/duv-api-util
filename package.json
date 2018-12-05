@@ -1,6 +1,6 @@
 {
   "name": "duv-api-util",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "convert duv api",
   "main": "index.js",
   "scripts": {
